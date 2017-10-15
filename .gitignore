@@ -1,3 +1,4 @@
 .idea/
-.dsms.iml
+*.iml
+*.iws
 target/
